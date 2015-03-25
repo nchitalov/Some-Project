@@ -3,3 +3,4 @@ def universal_truth():
 
 def universal_lie():
 	return -1 * universal_truth
+# This is our nrw verson of project
